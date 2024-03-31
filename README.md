@@ -20,7 +20,7 @@ Projeto desenvolvido com o intuito de resolver o desafio técnico de PHP para a 
 - Clone o repositorio e entre na pasta gerada;
 - Instale as dependências do PHP com o comando `composer install`;
 - Crie um banco de dados chamado "mercado_softexpert";
-- Execute o backup do banco de dados com o arquivo **db.dump** encontrado na raiz do projeto;
+- Execute o backup do banco de dados com o arquivo **bd.backup** encontrado na raiz do projeto;
 - Caso tenha problemas com o arquivo backup do banco, utilize o arquivo **dump.sql** encontrado na raiz do projeto;
 - Encontre o arquivo **.env.example** na raiz do projeto e renomeio para **.env**, em seguida adicione as configurações do seu banco postgreSQL instalado em sua máquina;
 - Após as configurações do banco, inicie o servidor embutido do PHP com o comando `php -S localhost:8080`;
